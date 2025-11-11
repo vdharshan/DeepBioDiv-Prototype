@@ -57,8 +57,8 @@ A simple text format for storing DNA sequences:
 - Like a labeled recipe card for genetic information
 
 ### **NCBI BLAST**
-**NCBI** = National Center for Biotechnology Information (a huge government database)
-**BLAST** = Basic Local Alignment Search Tool (a DNA comparison program)
+- **NCBI** = National Center for Biotechnology Information (a huge government database)
+- **BLAST** = Basic Local Alignment Search Tool (a DNA comparison program)
 
 ### **DNA Base Pairs**
 The building blocks of DNA:
