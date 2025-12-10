@@ -1,4 +1,4 @@
-# 🧬 DeepBioDiv Prototype
+# 🧬 DeepBioDiv MVP
 
 A user-friendly eDNA Species Finder web app that identifies species from environmental DNA sequences using NCBI BLAST search.
 
@@ -6,15 +6,13 @@ A user-friendly eDNA Species Finder web app that identifies species from environ
 ![Streamlit](https://img.shields.io/badge/streamlit-v1.28+-red.svg)
 ![BioPython](https://img.shields.io/badge/biopython-v1.80+-green.svg)
 
-## 🎯 What Does This App Do?
+## ⚙️ Working:
 
 Upload a DNA sequence file, and the app will:
 1. **Send your DNA** to NCBI's massive species database
 2. **Find matches** by comparing your DNA to millions of known species
 3. **Show results** with the top 5 most likely species matches
 4. **Display similarity** percentages and confidence scores
-
-## 🚀 Quick Start
 
 ### Installation
 ```bash
@@ -60,7 +58,7 @@ A simple text format for storing DNA sequences:
 - **NCBI** = National Center for Biotechnology Information (a huge government database)
 - **BLAST** = Basic Local Alignment Search Tool (a DNA comparison program)
 
-### **DNA Base Pairs**
+### **DNA Base Pairs** 
 The building blocks of DNA:
 - **A** (Adenine) - Always pairs with T
 - **T** (Thymine) - Always pairs with A  
