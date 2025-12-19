@@ -43,7 +43,7 @@ ATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCG
 GCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCT
 ```
 
-## 🧬 Scientific Terms Explained
+## 🧬 Scientific Terms
 
 ### **Environmental DNA (eDNA)**
 Tiny bits of DNA that animals, plants, and microbes leave behind in places like water or soil. Scientists collect these traces to detect which species are present without seeing them.
